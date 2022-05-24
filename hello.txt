@@ -9,6 +9,8 @@ hello fei4444444444444444
 hello fei
 hello fei
 hello fei 22222222222222
-hello fei
 hello fei master test
+hello fei hot-fix
+hello fei
+>>>>>>> hot-fix
 hello fei 22222222222222
